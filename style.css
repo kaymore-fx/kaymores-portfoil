@@ -11,4 +11,6 @@ nav a{
   text-decoration: none;
   color: #d21601d0;
 }
-
+nav :hover{
+    color:aliceblue;
+}
