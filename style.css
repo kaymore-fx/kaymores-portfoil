@@ -1,4 +1,15 @@
-select{
+#BAR{
 
-   property : value;
+background-color: rgb(76, 163, 234);
+padding-left: 20px;
+font-size: xx-large;
+word-spacing: 300px;
+height: 80px;
+
 }
+
+nav a{
+  text-decoration: none;
+  color: #d21601d0;
+}
+
