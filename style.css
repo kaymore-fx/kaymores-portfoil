@@ -1,4 +1,7 @@
-select{
+#BAR{
 
-   property : value;
+background-color: rgba(76, 234, 108, 0.813);
+padding-left: 200px;
+font-size: xx-large;
+word-spacing: 250px;
 }
