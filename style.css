@@ -1,6 +1,6 @@
 #BAR{
 
-background-color: rgb(76, 163, 234);
+background-color: #4ca3ea;
 padding-left: 20px;
 font-size: xx-large;
 word-spacing: 300px;
@@ -12,3 +12,18 @@ nav a{
   color: #d21601d0;
 }
 
+.hero{
+color: #4ca3ea;
+background-color: bisque;
+height: 500px;
+font-style: italic;
+font-size: xx-large;
+
+
+}
+
+#Welcome{
+text-align: center;
+padding: 180px;
+
+}
